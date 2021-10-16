@@ -10,3 +10,4 @@ This is for the personal blog website using nodejs ejs and expressjs
 - NodeJS
 - Express
 - EJS
+- Lodash
