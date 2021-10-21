@@ -11,3 +11,5 @@ This is for the personal blog website using nodejs ejs and expressjs
 - Express
 - EJS
 - Lodash
+- MongoDB
+- Mongoose
